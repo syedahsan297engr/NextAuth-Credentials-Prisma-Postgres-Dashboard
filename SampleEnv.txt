@@ -1,0 +1,3 @@
+NEXTAUTH_SECRET=
+AUTH_URL=http://localhost:3000/api/auth
+DATABASE_URL="postgresql://username:yourpassword@localhost:port/dbname?schema=public"
